@@ -1,26 +1,26 @@
 <!--[![Header](https://raw.githubusercontent.com/kasim95/kasim95/kasim95/readme_header.png "Header")](https://kasimp.tech/portfolio)
 -->
+<!-- Icons & colors from simpleIcons.org and badges from shields.io -->
 
-### Hi there 👋
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
 My name is Kasim Panjri and I'm a Computer Science Graduate Student. I'm from Mumbai, India and currently live in Los Angeles area, CA. 
 
 <!-- Visitor Count-->
 ![](https://visitor-badge.glitch.me/badge?page_id=kasim95.kasim95)
 
-
+#### Some things about me:
 - 🔭 I’m currently working on a project in Reinforcement Learning
 - 🌱 I’m currently learning Go, Scala, and Amazon Web Services
 - 👯 I’m looking to collaborate on an open source Data Engineering project in Python / Java
 - 🤔 I’m looking for help with Parallel Computing
 - 💬 Ask me about Python or Machine Learning
 - 📫 How to reach me: <a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" alt="Email" /></a><a href="https://www.linkedin.com/in/kasimpanjri"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn" /></a> <a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub" /></a> <a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter" /></a>
-
-
 <!-- - ⚡ Fun fact: -->
 
-<!-- Icons & colors from simpleIcons.org and badges from shields.io -->
-Languages and Tools:
+
+#### Tech Stack:
+
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
@@ -45,8 +45,12 @@ Languages and Tools:
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
+
+#### GitHub Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasim95&show_icons=true&langs_count=5&layout=compact&exclude_repo=kasim95,kasim95.github.io,cloudflare-2020-general-engineering-assignment,cloudflare-2020-systems-engineering-assignment,Deep_Learning-Flappy_Bird)]()
 
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim95&show_icons=true&langs_count=5&layout=compact&exclude_repo=kasim95,kasim95.github.io,cloudflare-2020-general-engineering-assignment,cloudflare-2020-systems-engineering-assignment,Deep_Learning-Flappy_Bird" />
 
 <!--Github Stats-->
 <!--
