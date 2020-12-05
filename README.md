@@ -14,10 +14,7 @@ My name is Kasim Panjri and I'm a Computer Science Graduate Student. I'm from Mu
 - 👯 I’m looking to collaborate on an open source Data Engineering project in Python / Java
 - 🤔 I’m looking for help with Parallel Computing
 - 💬 Ask me about Python or Machine Learning
-- 📫 How to reach me: <a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" alt="Email">
-<a href="https://www.linkedin.com/in/kasimpanjri"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn">
-<a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub">
-<a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter">
+- 📫 How to reach me: <a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" alt="Email" /></a><a href="https://www.linkedin.com/in/kasimpanjri"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn" /></a> <a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub" /></a> <a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter" /></a>
 
 
 <!-- - ⚡ Fun fact: -->
