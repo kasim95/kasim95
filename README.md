@@ -13,7 +13,7 @@ GitHub
 Twitter
 Visitor Count
 -->
-<a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" /></a><a href="https://www.linkedin.com/in/kasimpanjri" alt="Email"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn" /></a> <a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub" /></a> <a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter" /></a><img src="https://visitor-badge.glitch.me/badge?page_id=kasim95.kasim95" alt="Visitor Count"/>
+<a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" /></a><a href="https://www.linkedin.com/in/kasimpanjri" alt="Email"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn" /></a> <a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub" /></a> <a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter" /> </a><img src="https://visitor-badge.glitch.me/badge?page_id=kasim95.kasim95" alt="Visitor Count"/>
 
 #### :point_right: Some things about me:
 - 🔭 I’m currently working on a project in Reinforcement Learning
