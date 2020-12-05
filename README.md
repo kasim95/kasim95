@@ -46,11 +46,9 @@ My name is Kasim Panjri and I'm a Computer Science Graduate Student. I'm from Mu
 </p>
 
 
-#### GitHub Stats:
+#### Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasim95&show_icons=true&langs_count=5&layout=compact&exclude_repo=kasim95,kasim95.github.io,cloudflare-2020-general-engineering-assignment,cloudflare-2020-systems-engineering-assignment,Deep_Learning-Flappy_Bird)]()
-
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim95&show_icons=true&langs_count=5&layout=compact&exclude_repo=kasim95,kasim95.github.io,cloudflare-2020-general-engineering-assignment,cloudflare-2020-systems-engineering-assignment,Deep_Learning-Flappy_Bird" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim95&show_icons=true&langs_count=5&layout=compact&exclude_repo=kasim95,kasim95.github.io,cloudflare-2020-general-engineering-assignment,cloudflare-2020-systems-engineering-assignment,Deep_Learning-Flappy_Bird&hide_border=True&hide_title=True" />
 
 <!--Github Stats-->
 <!--
