@@ -16,10 +16,10 @@ Visitor Count
 <a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" /></a><a href="https://www.linkedin.com/in/kasimpanjri" alt="Email"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn" /></a> <a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub" /></a> <a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter" /> </a><img src="https://visitor-badge.glitch.me/badge?page_id=kasim95.kasim95" alt="Visitor Count"/>
 
 #### :point_right: Some things about me:
-- 🔭 I’m currently working on a project in Reinforcement Learning
-- 🌱 I’m currently learning Go, Scala, and Amazon Web Services
-- 👯 I’m looking to collaborate on an open source Data Engineering project in Python / Java
-- 🤔 I’m looking for help with Parallel Computing and General Adversarial Networks
+- 🔭 I’m currently working on a project on Data Analytics
+- 🌱 I’m currently learning Scala, Kafka and Amazon Web Services
+- 👯 I’m looking to collaborate on an open source Machine Learning project
+- 🤔 I’m looking for help with Distributed Computing
 - 💬 Ask me about Python or Machine Learning
 - 📫 How to reach me: [@kasimpanjri](https://www.linkedin.com/in/kasimpanjri)
 <!-- - ⚡ Fun fact: -->
