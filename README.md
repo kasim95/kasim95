@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-My name is Kasim Panjri and I'm a Computer Science Graduate Student :school:. I'm from Mumbai, India :house: and currently live in Los Angeles area, CA :city_sunrise:. 
+My name is Kasim Panjri and I'm a Software Engineer :computer:. I'm  I'm from Mumbai, India :house: and currently live in Los Angeles area, CA :city_sunrise:. 
 
 <!--
 Email
@@ -16,10 +16,10 @@ Visitor Count
 <a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" /></a><a href="https://www.linkedin.com/in/kasimpanjri" alt="Email"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn" /></a> <a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub" /></a> <a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter" /> </a><img src="https://visitor-badge.glitch.me/badge?page_id=kasim95.kasim95" alt="Visitor Count"/>
 
 #### :point_right: Some things about me:
-- 🔭 I’m currently working on a project on Data Analytics
-- 🌱 I’m currently learning Scala, Kafka and Amazon Web Services
-- 👯 I’m looking to collaborate on an open source Machine Learning project
-- 🤔 I’m looking for help with Distributed Computing
+- 🔭 I work as a Software Engineer
+- 🌱 I’m currently learning Flutter, Kafka and Azure
+- 👯 I’m looking to collaborate on a decentralized application
+- 🤔 I’m looking for help with Blockchain networks
 - 💬 Ask me about Python or Machine Learning
 - 📫 How to reach me: [@kasimpanjri](https://www.linkedin.com/in/kasimpanjri)
 <!-- - ⚡ Fun fact: -->
@@ -30,10 +30,8 @@ Visitor Count
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="React.js" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" />
