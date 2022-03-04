@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-My name is Kasim Panjri and I'm a Software Engineer :computer:. I'm  I'm from Mumbai, India :house: and currently live in Los Angeles area, CA :city_sunrise:. 
+My name is Kasim Panjri and I'm a Software Engineer :computer:. I'm from Mumbai, India :house: and currently live in San Diego, CA :city_sunrise:. 
 
 <!--
 Email
@@ -16,7 +16,7 @@ Visitor Count
 <a href="mailto:panjrikasim@gmail.com"><img src="https://img.shields.io/badge/panjrikasim@gmail.com--_?style=social&logo=gmail" /></a><a href="https://www.linkedin.com/in/kasimpanjri" alt="Email"><img src="https://img.shields.io/badge/LinkedIn--_?style=social&logo=linkedin" alt="LinkedIn" /></a> <a href="https://www.github.com/kasim95"><img src="https://img.shields.io/badge/GitHub--_?style=social&logo=github" alt="GitHub" /></a> <a href="https://www.twitter.com/kasimpanjri"><img src="https://img.shields.io/badge/Twitter--_?style=social&logo=twitter" alt="Twitter" /> </a><img src="https://visitor-badge.glitch.me/badge?page_id=kasim95.kasim95" alt="Visitor Count"/>
 
 #### :point_right: Some things about me:
-- 🔭 I work as a Software Engineer
+- 🔭 I'm a Python enthusiast
 - 🌱 I’m currently learning Flutter, Kafka and Azure
 - 👯 I’m looking to collaborate on a decentralized application
 - 🤔 I’m looking for help with Blockchain networks
